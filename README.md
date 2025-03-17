@@ -13,7 +13,7 @@
 데디케이트 서버를 이용해 멀티플레이 게임을 제작한 팀 프로젝트입니다.
 게임 플레이에 대한 핵심 시스템을 직접 개발하였으며, Gameplay Ability System을 적극적으로 사용하였습니다.
 
-**[시연 영상]()**
+//**[시연 영상]()**
 
 ---
 
@@ -66,11 +66,11 @@
 
 | 이름 | GitHub | 이메일 |
 |------|--------|--------|
-| **skydenny99** | [GitHub]() | alsrb1002@naver.com |
-| **jaeyeong2659** | [GitHub]() | que_d@naver.com |
-| **Jh9925** | [GitHub]() | zac_o@naver.com |
-| **Jh9925** | [GitHub]() | junsusky1@naver.com |
-| **Jh9925** | [GitHub]() | yea2979@naver.com |
+| **naioooo** | [GitHub](https://github.com/naioooo) | alsrb1002@naver.com |
+| **limDongWook0127** | [GitHub](https://github.com/limDongWook0127) | que_d@naver.com |
+| **Zac_o** | [GitHub](https://github.com/ParkJaeYuns) | zac_o@naver.com |
+| **Joonsoooo** | [GitHub](https://github.com/Joonsoooo) | junsusky1@naver.com |
+| **YEAHWA1010** | [GitHub](https://github.com/YEAHWA1010) | yea2979@naver.com |
 
 ---
 
